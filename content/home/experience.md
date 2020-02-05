@@ -20,17 +20,17 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Gradate Student"
   company = "The Ohio State University"
-  company_url = ""
+#  company_url = ""
   location = "Columbus, Ohio"
   date_start = "2019-08-20"
   date_end = "Present"
-  description = """
-  Responsibilities include:
+#  description = """
+# Responsibilities include:
 
 [[experience]]
   title = "Intern"
   company = "Centers for Disease Control and Prevention, Division of Violence Prevention"
-  company_url = ""
+#  company_url = ""
   location = "Atlanta, Georgia"
   date_start = "2019-01-01"
   date_end = "2019-05"
