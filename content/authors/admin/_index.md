@@ -18,7 +18,6 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Jacob Kepes is a graduate student in the Department of Sociology at The Ohio State University in Columbus, Ohio. Jacob is a graduate affiliate for the Institute of Population Research (IPR) and the Criminal Justice Research Center (CJRC). Jacob is advised by Dana Haynie. His interests include criminology, urban sociology, social stratification, race, and spatial methodology. He completed his undergraduate degrees at the University of Georgia in Athens, Georgia. 
 
 interests:
 - Criminology
@@ -68,6 +67,6 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+bio: Jacob Kepes is a graduate student in the Department of Sociology at The Ohio State University in Columbus, Ohio. Jacob is a graduate affiliate for the Institute of Population Research (IPR) and the Criminal Justice Research Center (CJRC). He completed his undergraduate degrees at the University of Georgia in Athens, Georgia.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+He is advised by [Dana Haynie](https://sociology.osu.edu/people/haynie.7). 
