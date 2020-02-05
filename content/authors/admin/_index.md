@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Jacob Kepes
 
 # Username (this should match the folder name)
 authors:
@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Graduate Student
 
 # Organizations/Affiliations
 organizations:
@@ -18,24 +18,22 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Jacob Kepes is a graduate student in the Department of Sociology at The Ohio State University in Columbus, Ohio. Jacob is a graduate affiliate for the Institute of Population Research (IPR) and the Criminal Justice Research Center (CJRC). Jacob is advised by Dana Haynie. His interests include criminology, urban sociology, social stratification, race, and spatial methodology. His undergraduate degrees (B.A.) in Criminal Justice and Sociology were completed at the University of Georgia in Athens, Georgia. 
+bio: Jacob Kepes is a graduate student in the Department of Sociology at The Ohio State University in Columbus, Ohio. Jacob is a graduate affiliate for the Institute of Population Research (IPR) and the Criminal Justice Research Center (CJRC). Jacob is advised by Dana Haynie. His interests include criminology, urban sociology, social stratification, race, and spatial methodology. He completed his undergraduate degrees at the University of Georgia in Athens, Georgia. 
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Criminology
+- Urban Sociology
+- Spatial Analysis
+- Race
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: BA in Criminal Justice
+    institution: University of Georgia
+    year: 2019
+  - course: BA in Sociology
+    institution: University of Georgia
+    year: 2019
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -47,13 +45,13 @@ social:
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://twitter.com/JSKepes
+#- icon: google-scholar
+#  icon_pack: ai
+#  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/jskepes1
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
