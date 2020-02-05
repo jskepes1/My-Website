@@ -20,7 +20,7 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Gradate Student"
   company = "The Ohio State University"
-#  company_url = ""
+  company_url = ""
   location = "Columbus, Ohio"
   date_start = "2019-08-20"
   date_end = ""
