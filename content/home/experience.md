@@ -24,15 +24,15 @@ date_format = "Jan 2006"
   location = "Columbus, Ohio"
   date_start = "2019-08-20"
   date_end = ""
-#  description = """
-# Responsibilities include:
+  description = """
+ Responsibilities include:
 
 [[experience]]
   title = "Intern"
   company = "Centers for Disease Control and Prevention, Division of Violence Prevention"
-#  company_url = ""
+  company_url = ""
   location = "Atlanta, Georgia"
   date_start = "2019-01-01"
-  date_end = "2019-05"
+  date_end = "2019-05-01"
 
 +++
