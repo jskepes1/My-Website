@@ -14,11 +14,11 @@ role: Professor of Artificial Intelligence
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: The Ohio State University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Jacob Kepes is a graduate student in the Department of Sociology at The Ohio State University in Columbus, Ohio. Jacob is a graduate affiliate for the Institute of Population Research (IPR) and the Criminal Justice Research Center (CJRC). Jacob is advised by Dana Haynie. His interests include criminology, urban sociology, social stratification, race, and spatial methodology. His undergraduate degrees (B.A.) in Criminal Justice and Sociology were completed at the University of Georgia in Athens, Georgia. 
 
 interests:
 - Artificial Intelligence
