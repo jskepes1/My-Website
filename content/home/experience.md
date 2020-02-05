@@ -25,7 +25,6 @@ date_format = "Jan 2006"
   date_start = "2019-08-20"
   date_end = ""
   description = """
- Responsibilities include:
 
 [[experience]]
   title = "Intern"
