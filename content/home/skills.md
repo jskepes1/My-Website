@@ -31,11 +31,5 @@ subtitle = ""
   icon_pack = "fas"
   name = "GIS"
 # description = "90%"  
-  
-[[feature]]
-  icon = "camera-retro"
-  icon_pack = "fas"
-  name = "Photography"
-#  description = "10%"
 
 +++
