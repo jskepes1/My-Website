@@ -27,6 +27,15 @@ date_format = "Jan 2006"
   date_start = "2019-05-10"
   date_end = ""
   description = ""
+[[item]]
+  organization = "Ohio State University Department of Sociology"
+  organization_url = ""
+  title = "Silverman Award"
+  url = ""
+  certificate_url = ""
+  date_start = "2021"
+  date_end = ""
+  description = ""
 
 #[[item]]
 #  organization = "edX"
