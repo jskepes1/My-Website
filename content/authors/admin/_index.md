@@ -24,6 +24,7 @@ interests:
 - Urban Sociology
 - Spatial Analysis
 - Race
+- Health
 
 education:
   courses:
