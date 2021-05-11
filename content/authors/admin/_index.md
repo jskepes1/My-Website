@@ -44,9 +44,8 @@ social:
   icon_pack: fas
   link
   link: '#contact'  # For a direct email link, use "mailto:kepes.8@osu.edu".
-#contact
-mailto:kepes.8@osu.edu".
-form "mailto:kepes.8@osu.edu".
+contact:
+-mailto:kepes.8@osu.edu
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/JSKepes
