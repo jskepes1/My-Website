@@ -68,6 +68,6 @@ user_groups:
 - Visitors
 ---
 
-Jacob Kepes is a graduate student in the Department of Sociology at The Ohio State University in Columbus, Ohio. Jacob is a graduate affiliate for the Institute of Population Research (IPR) and the Criminal Justice Research Center (CJRC). He completed his undergraduate degrees at the University of Georgia in Athens, Georgia.
+Jacob Kepes is a graduate student in the Department of Sociology at The Ohio State University in Columbus, Ohio. Jacob is a graduate affiliate for the Institute of Population Research (IPR), Criminal Justice Research Center (CJRC), and the Center for Urban and Regional Analysis. He completed his undergraduate degrees at the University of Georgia in Athens, Georgia.
 
 He is advised by [Dana Haynie](https://sociology.osu.edu/people/haynie.7). 
