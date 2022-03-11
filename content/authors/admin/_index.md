@@ -68,6 +68,6 @@ user_groups:
 - Visitors
 ---
 
-Jacob Kepes is a graduate student in the Department of Sociology at The Ohio State University in Columbus, Ohio. Jacob is a graduate affiliate for the Institute of Population Research (IPR), Criminal Justice Research Center (CJRC), and the Center for Urban and Regional Analysis (CURA). He received his MA in Sociology from Ohio State University, and his undergraduate alma mater is the University of Georgia in Athens, Georgia.
+Jacob Kepes is a graduate student in the Department of Sociology at The Ohio State University in Columbus, Ohio. Jacob is a graduate affiliate for the Institute of Population Research (IPR), Criminal Justice Research Center (CJRC), and the Center for Urban and Regional Analysis (CURA). He received his MA in Sociology from Ohio State University, and BA in Criminal Justice and Sociology from the University of Georgia in Athens, Georgia.
 
 He is advised by [Townsand Price-Spratlen](https://sociology.osu.edu/people/price-spratlen.1). 
