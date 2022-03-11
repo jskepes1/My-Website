@@ -20,14 +20,16 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 
 interests:
-- Criminology
 - Urban Sociology
 - Spatial Analysis
 - Race
-- Health
+- Housing
 
 education:
   courses:
+  -course: MA in Criminal Justice
+    institution: The Ohio State University
+    year: 2021
   - course: BA in Criminal Justice
     institution: University of Georgia
     year: 2019
