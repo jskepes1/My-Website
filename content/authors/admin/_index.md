@@ -27,15 +27,15 @@ interests:
 
 education:
   courses:
-  -course: MA in Criminal Justice
-    institution: The Ohio State University
-    year: 2021
   - course: BA in Criminal Justice
     institution: University of Georgia
     year: 2019
   - course: BA in Sociology
     institution: University of Georgia
     year: 2019
+  -course: MA in Criminal Justice
+    institution: The Ohio State University
+    year: 2021
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
