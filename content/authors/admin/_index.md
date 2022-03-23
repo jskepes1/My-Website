@@ -27,7 +27,7 @@ interests:
 
 education:
   courses:
-  - course: BA in Criminal Justice and Sociology
+  - course: BA in Criminal Justice & Sociology
     institution: University of Georgia
     year: 2019
   - course: BA in Sociology
