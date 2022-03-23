@@ -33,7 +33,7 @@ education:
   - course: BA in Sociology
     institution: University of Georgia
     year: 2019
-  -course: MA in Criminal Justice
+  -course: MA in Sociology
     institution: The Ohio State University
     year: 2021
 
